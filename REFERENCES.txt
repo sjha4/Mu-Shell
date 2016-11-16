@@ -1,0 +1,5 @@
+1. Stackoverflow.com for general queries
+2. LINUX man pages.
+3. https://filippo.io/linux-syscall-table/ [For details of system calls]
+4. http://man7.org/tlpi/code/online/dist/proc/setenv.c.html - for better understanding of setenv and unsetenv
+5. https://www.cs.rutgers.edu/~pxk/416/notes/c-tutorials/pipe.html - pipes and dup in detail
